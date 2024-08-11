@@ -23,7 +23,7 @@ st.image(image, caption="رواتب حديثين التخرج ")
 # Add a statement
 statement = "صح رواتبنا كحديثين تخرج تعتبر قليله و نادر ما نحصل احد راتبه عالي لكن كانت فيه اعلانات  وظائف طالبه ناس لهم خبره براتب قريب من رواتب حديثين التخرج "
 st.write(statement)
-
+st.text('وزي ما قالو من شاف مصيبة غيره هانت عليه مصيبته')
 # Add an image
 image = "exper and salary.png"
 st.image(image, caption="")
