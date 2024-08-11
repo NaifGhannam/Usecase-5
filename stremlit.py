@@ -41,3 +41,4 @@ image = "exper and salary.png"
 st.image(image, caption="")
 
 
+st.text("هذا بختصار كان نتيجة تحليل بيانات سوق العمل السعودي  عن طريق منصة جدارات ")

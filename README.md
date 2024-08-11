@@ -22,9 +22,11 @@ There is significant room for fresh graduates.
 The percentages for 7, 10, and 12 years of experience are all less than 1%, indicating that these higher levels of experience make up a very small portion of the available job opportunities.
 
 
-### Bounce :
+# Bounce :
 
- ## calculate the percentage of full-time and remote jobs for recent graduates?
+ ### calculate the percentage of full-time and remote jobs for recent graduates?
  ans / 98% of the jobs are full-time and 2% are remote,
 
- ## 
+ 
+### stremlit url :
+ https://usecase-5-mqwsqskxyzm7akwqundz2d.streamlit.app/
