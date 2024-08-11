@@ -17,8 +17,18 @@ statement = "كانت الرواتب تتراوح في حدود 5803 ريال ح
 st.write(statement)
 
 # Add an image
-image = "range.png"
+image = "رينج حديثين التخرج.png"
 st.image(image, caption="رواتب حديثين التخرج ")
+
+# Add a statement
+statement = "صح رواتبنا كحديثين تخرج تعتبر قليله و نادر ما نحصل احد راتبه عالي لكن كانت فيه اعلانات  وظائف طالبه ناس لهم خبره براتب قريب من رواتب حديثين التخرج "
+st.write(statement)
+
+# Add an image
+image = "exper and salary.png"
+st.image(image, caption="")
+
+
 
 # Add a statement
 statement = "ما يقارب 60% من اعلانات التوظيف تستهدف حديثين التخرج "
